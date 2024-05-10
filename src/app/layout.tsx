@@ -8,7 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Cobra Case",
-  description: "Cobra Case is a case management system for law firms.",
+  description:
+    "Cobra Case is a phone case that protects your phone from damage and looks good while doing it.",
 };
 
 export default function RootLayout({
