@@ -23,7 +23,7 @@ const Phone = ({ imgSrc, className, dark = false, ...props }: PhoneProps) => {
         }
         className="pointer-events-none z-50 select-none"
         alt="phone image"
-        width={240}
+        width={259}
         height={490}
       />
 
